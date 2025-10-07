@@ -4,6 +4,9 @@
 This project analyzes employee attrition to help HR identify high-risk groups and reduce workforce churn.  
 The analysis was done using **Python (EDA)** and an **interactive Power BI dashboard** to support workforce planning decisions.  
 
+## Dashboard Preview
+![Dashboard Screenshot](/Screenshot%202025-09-15%20225305.png)
+
 ## 🎯 Objectives
 - Understand drivers of employee attrition (tenure, salary, job role, overtime).  
 - Build KPIs and dashboards to track attrition trends across departments.  
