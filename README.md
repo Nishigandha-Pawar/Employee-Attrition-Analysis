@@ -22,4 +22,4 @@ The analysis was done using **Python (EDA)** and an **interactive Power BI dashb
 - Targeted HR policies could reduce attrition, saving **$200K+ annually** in rehiring costs.  
 
 ## ✅ Business Impact
-By identifying at-risk employee groups, HR can design targeted retention programs, improve workforce planning, and reduce rehiring costs.  
+➢ By identifying at-risk employee groups, HR can design targeted retention programs, improve workforce planning, and reduce rehiring costs.  
