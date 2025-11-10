@@ -5,7 +5,8 @@ This project analyzes employee attrition to help HR identify high-risk groups an
 The analysis was done using **Python (EDA)** and an **interactive Power BI dashboard** to support workforce planning decisions.  
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](./Screenshot%202025-11-11%20000202.png)
+![Dashboard Screenshot](./Screenshot%202025-11-11%20000617.png)
+
 
 
 ## 🎯 Objectives
